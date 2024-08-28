@@ -342,25 +342,25 @@ var APP_DATA = {
           "yaw": 1.3080009017007779,
           "pitch": -0.07590051426191735,
           "title": "모돈 자동급이기",
-          "text": "<div>(표준 장치명)</div><div>(이미지)</div><div><br></div><div>-</div><div><br></div>(회사 A) (회사 B) (회사 C)<div><br></div><div>1.업체 정보</div><div>1.1.제조사/유통사</div><div>1.1.1.회사 A/회사 A</div><div><br></div><div>2.설비 정보</div><div>2.1.표준장치명/모델명</div><div>2.1.1.(표준장치명/모델명)</div><div>2.2.ICT장비 등록번호</div><div>2.2.1.(일련번호)</div><div>2.3.주요 기능</div><div>2.3.1.(기능 설명)</div><div>2.4.구성</div><div>2.4.1. (구성품 나열)</div><div><br></div><div>3.ICT 정보</div><div>3.1.수집 데이터</div><div>3.1.1. (수집 데이터 나열)</div><div><br></div><div>4.도입 시 고려사항</div><div>4.1.비용</div><div>4.1.1. (비용)</div><div>4.2.최소 기준</div><div>4.2.1. (최소 기준)</div>"
+          "text": " "
         },
         {
           "yaw": 1.7124372944063575,
           "pitch": -0.3001928873784685,
           "title": "환풍기",
-          "text": "<div>(표준 장치명)</div><div>(이미지)</div><div><br></div><div>-</div><div><br></div>(회사 A) (회사 B) (회사 C)<div><br></div><div>1.업체 정보</div><div>1.1.제조사/유통사</div><div>1.1.1.회사 A/회사 A</div><div><br></div><div>2.설비 정보</div><div>2.1.표준장치명/모델명</div><div>2.1.1.(표준장치명/모델명)</div><div>2.2.ICT장비 등록번호</div><div>2.2.1.(일련번호)</div><div>2.3.주요 기능</div><div>2.3.1.(기능 설명)</div><div>2.4.구성</div><div>2.4.1. (구성품 나열)</div><div><br></div><div>3.ICT 정보</div><div>3.1.수집 데이터</div><div>3.1.1. (수집 데이터 나열)</div><div><br></div><div>4.도입 시 고려사항</div><div>4.1.비용</div><div>4.1.1. (비용)</div><div>4.2.최소 기준</div><div>4.2.1. (최소 기준)</div>"
+          "text": " "
         },
         {
           "yaw": 1.7127281769359586,
           "pitch": -0.374073326947558,
           "title": "악취제거기",
-          "text": "<div>(표준 장치명)</div><div>(이미지)</div><div><br></div><div>-</div><div><br></div>(회사 A) (회사 B) (회사 C)<div><br></div><div>1.업체 정보</div><div>1.1.제조사/유통사</div><div>1.1.1.회사 A/회사 A</div><div><br></div><div>2.설비 정보</div><div>2.1.표준장치명/모델명</div><div>2.1.1.(표준장치명/모델명)</div><div>2.2.ICT장비 등록번호</div><div>2.2.1.(일련번호)</div><div>2.3.주요 기능</div><div>2.3.1.(기능 설명)</div><div>2.4.구성</div><div>2.4.1. (구성품 나열)</div><div><br></div><div>3.ICT 정보</div><div>3.1.수집 데이터</div><div>3.1.1. (수집 데이터 나열)</div><div><br></div><div>4.도입 시 고려사항</div><div>4.1.비용</div><div>4.1.1. (비용)</div><div>4.2.최소 기준</div><div>4.2.1. (최소 기준)</div>"
+          "text": " "
         },
         {
           "yaw": 0.6193110781696483,
           "pitch": 0.36225998336436227,
           "title": "모돈 RFID 귀표",
-          "text": "<div>(표준 장치명)</div><div>(이미지)</div><div><br></div><div>-</div><div><br></div>(회사 A) (회사 B) (회사 C)<div><br></div><div>1.업체 정보</div><div>1.1.제조사/유통사</div><div>1.1.1.회사 A/회사 A</div><div><br></div><div>2.설비 정보</div><div>2.1.표준장치명/모델명</div><div>2.1.1.(표준장치명/모델명)</div><div>2.2.ICT장비 등록번호</div><div>2.2.1.(일련번호)</div><div>2.3.주요 기능</div><div>2.3.1.(기능 설명)</div><div>2.4.구성</div><div>2.4.1. (구성품 나열)</div><div><br></div><div>3.ICT 정보</div><div>3.1.수집 데이터</div><div>3.1.1. (수집 데이터 나열)</div><div><br></div><div>4.도입 시 고려사항</div><div>4.1.비용</div><div>4.1.1. (비용)</div><div>4.2.최소 기준</div><div>4.2.1. (최소 기준)</div>"
+          "text": " "
         }
       ]
     },
@@ -411,19 +411,19 @@ var APP_DATA = {
           "yaw": 1.7159248030488632,
           "pitch": -0.30646890893387635,
           "title": "환풍기",
-          "text": "<div>(표준 장치명)</div><div>(이미지)</div><div><br></div><div>-</div><div><br></div>(회사 A) (회사 B) (회사 C)<div><br></div><div>1.업체 정보</div><div>1.1.제조사/유통사</div><div>1.1.1.회사 A/회사 A</div><div><br></div><div>2.설비 정보</div><div>2.1.표준장치명/모델명</div><div>2.1.1.(표준장치명/모델명)</div><div>2.2.ICT장비 등록번호</div><div>2.2.1.(일련번호)</div><div>2.3.주요 기능</div><div>2.3.1.(기능 설명)</div><div>2.4.구성</div><div>2.4.1. (구성품 나열)</div><div><br></div><div>3.ICT 정보</div><div>3.1.수집 데이터</div><div>3.1.1. (수집 데이터 나열)</div><div><br></div><div>4.도입 시 고려사항</div><div>4.1.비용</div><div>4.1.1. (비용)</div><div>4.2.최소 기준</div><div>4.2.1. (최소 기준)</div>"
+          "text": " "
         },
         {
           "yaw": 1.7159304315578474,
           "pitch": -0.37968724442556123,
           "title": "악취제거기",
-          "text": "<div>(표준 장치명)</div><div>(이미지)</div><div><br></div><div>-</div><div><br></div>(회사 A) (회사 B) (회사 C)<div><br></div><div>1.업체 정보</div><div>1.1.제조사/유통사</div><div>1.1.1.회사 A/회사 A</div><div><br></div><div>2.설비 정보</div><div>2.1.표준장치명/모델명</div><div>2.1.1.(표준장치명/모델명)</div><div>2.2.ICT장비 등록번호</div><div>2.2.1.(일련번호)</div><div>2.3.주요 기능</div><div>2.3.1.(기능 설명)</div><div>2.4.구성</div><div>2.4.1. (구성품 나열)</div><div><br></div><div>3.ICT 정보</div><div>3.1.수집 데이터</div><div>3.1.1. (수집 데이터 나열)</div><div><br></div><div>4.도입 시 고려사항</div><div>4.1.비용</div><div>4.1.1. (비용)</div><div>4.2.최소 기준</div><div>4.2.1. (최소 기준)</div>"
+          "text": " "
         },
         {
           "yaw": 2.875156637893941,
           "pitch": 0.3699714920986139,
           "title": "모돈 RFID 귀표",
-          "text": "<div>(표준 장치명)</div><div>(이미지)</div><div><br></div><div>-</div><div><br></div>(회사 A) (회사 B) (회사 C)<div><br></div><div>1.업체 정보</div><div>1.1.제조사/유통사</div><div>1.1.1.회사 A/회사 A</div><div><br></div><div>2.설비 정보</div><div>2.1.표준장치명/모델명</div><div>2.1.1.(표준장치명/모델명)</div><div>2.2.ICT장비 등록번호</div><div>2.2.1.(일련번호)</div><div>2.3.주요 기능</div><div>2.3.1.(기능 설명)</div><div>2.4.구성</div><div>2.4.1. (구성품 나열)</div><div><br></div><div>3.ICT 정보</div><div>3.1.수집 데이터</div><div>3.1.1. (수집 데이터 나열)</div><div><br></div><div>4.도입 시 고려사항</div><div>4.1.비용</div><div>4.1.1. (비용)</div><div>4.2.최소 기준</div><div>4.2.1. (최소 기준)</div>"
+          "text": " "
         }
       ]
     },
@@ -468,37 +468,37 @@ var APP_DATA = {
           "yaw": 1.7144456909987724,
           "pitch": -0.2929006295759997,
           "title": "환풍기",
-          "text": "<div>(표준 장치명)</div><div>(이미지)</div><div><br></div><div>-</div><div><br></div>(회사 A) (회사 B) (회사 C)<div><br></div><div>1.업체 정보</div><div>1.1.제조사/유통사</div><div>1.1.1.회사 A/회사 A</div><div><br></div><div>2.설비 정보</div><div>2.1.표준장치명/모델명</div><div>2.1.1.(표준장치명/모델명)</div><div>2.2.ICT장비 등록번호</div><div>2.2.1.(일련번호)</div><div>2.3.주요 기능</div><div>2.3.1.(기능 설명)</div><div>2.4.구성</div><div>2.4.1. (구성품 나열)</div><div><br></div><div>3.ICT 정보</div><div>3.1.수집 데이터</div><div>3.1.1. (수집 데이터 나열)</div><div><br></div><div>4.도입 시 고려사항</div><div>4.1.비용</div><div>4.1.1. (비용)</div><div>4.2.최소 기준</div><div>4.2.1. (최소 기준)</div>"
+          "text": " "
         },
         {
           "yaw": 1.7143699906106553,
           "pitch": -0.3665027384198911,
           "title": "악취제거기",
-          "text": "<div>(표준 장치명)</div><div>(이미지)</div><div><br></div><div>-</div><div><br></div>(회사 A) (회사 B) (회사 C)<div><br></div><div>1.업체 정보</div><div>1.1.제조사/유통사</div><div>1.1.1.회사 A/회사 A</div><div><br></div><div>2.설비 정보</div><div>2.1.표준장치명/모델명</div><div>2.1.1.(표준장치명/모델명)</div><div>2.2.ICT장비 등록번호</div><div>2.2.1.(일련번호)</div><div>2.3.주요 기능</div><div>2.3.1.(기능 설명)</div><div>2.4.구성</div><div>2.4.1. (구성품 나열)</div><div><br></div><div>3.ICT 정보</div><div>3.1.수집 데이터</div><div>3.1.1. (수집 데이터 나열)</div><div><br></div><div>4.도입 시 고려사항</div><div>4.1.비용</div><div>4.1.1. (비용)</div><div>4.2.최소 기준</div><div>4.2.1. (최소 기준)</div>"
+          "text": " "
         },
         {
           "yaw": 0.7334656021630472,
           "pitch": 0.02957293316499232,
           "title": "보온등",
-          "text": "<div>(표준 장치명)</div><div>(이미지)</div><div><br></div><div>-</div><div><br></div>(회사 A) (회사 B) (회사 C)<div><br></div><div>1.업체 정보</div><div>1.1.제조사/유통사</div><div>1.1.1.회사 A/회사 A</div><div><br></div><div>2.설비 정보</div><div>2.1.표준장치명/모델명</div><div>2.1.1.(표준장치명/모델명)</div><div>2.2.ICT장비 등록번호</div><div>2.2.1.(일련번호)</div><div>2.3.주요 기능</div><div>2.3.1.(기능 설명)</div><div>2.4.구성</div><div>2.4.1. (구성품 나열)</div><div><br></div><div>3.ICT 정보</div><div>3.1.수집 데이터</div><div>3.1.1. (수집 데이터 나열)</div><div><br></div><div>4.도입 시 고려사항</div><div>4.1.비용</div><div>4.1.1. (비용)</div><div>4.2.최소 기준</div><div>4.2.1. (최소 기준)</div>"
+          "text": " "
         },
         {
           "yaw": 0.9275063809199544,
           "pitch": 0.28636019543605684,
           "title": "액상급이기",
-          "text": "<div>(표준 장치명)</div><div>(이미지)</div><div><br></div><div>-</div><div><br></div>(회사 A) (회사 B) (회사 C)<div><br></div><div>1.업체 정보</div><div>1.1.제조사/유통사</div><div>1.1.1.회사 A/회사 A</div><div><br></div><div>2.설비 정보</div><div>2.1.표준장치명/모델명</div><div>2.1.1.(표준장치명/모델명)</div><div>2.2.ICT장비 등록번호</div><div>2.2.1.(일련번호)</div><div>2.3.주요 기능</div><div>2.3.1.(기능 설명)</div><div>2.4.구성</div><div>2.4.1. (구성품 나열)</div><div><br></div><div>3.ICT 정보</div><div>3.1.수집 데이터</div><div>3.1.1. (수집 데이터 나열)</div><div><br></div><div>4.도입 시 고려사항</div><div>4.1.비용</div><div>4.1.1. (비용)</div><div>4.2.최소 기준</div><div>4.2.1. (최소 기준)</div>"
+          "text": " "
         },
         {
           "yaw": 2.2614515956838055,
           "pitch": 0.2858802947175043,
           "title": "습식 급이기",
-          "text": "<div>(표준 장치명)</div><div>(이미지)</div><div><br></div><div>-</div><div><br></div>(회사 A) (회사 B) (회사 C)<div><br></div><div>1.업체 정보</div><div>1.1.제조사/유통사</div><div>1.1.1.회사 A/회사 A</div><div><br></div><div>2.설비 정보</div><div>2.1.표준장치명/모델명</div><div>2.1.1.(표준장치명/모델명)</div><div>2.2.ICT장비 등록번호</div><div>2.2.1.(일련번호)</div><div>2.3.주요 기능</div><div>2.3.1.(기능 설명)</div><div>2.4.구성</div><div>2.4.1. (구성품 나열)</div><div><br></div><div>3.ICT 정보</div><div>3.1.수집 데이터</div><div>3.1.1. (수집 데이터 나열)</div><div><br></div><div>4.도입 시 고려사항</div><div>4.1.비용</div><div>4.1.1. (비용)</div><div>4.2.최소 기준</div><div>4.2.1. (최소 기준)</div>"
+          "text": " "
         },
         {
           "yaw": 1.9921055539032828,
           "pitch": -0.017868189808961432,
           "title": "환풍기",
-          "text": "<div>(표준 장치명)</div><div>(이미지)</div><div><br></div><div>-</div><div><br></div>(회사 A) (회사 B) (회사 C)<div><br></div><div>1.업체 정보</div><div>1.1.제조사/유통사</div><div>1.1.1.회사 A/회사 A</div><div><br></div><div>2.설비 정보</div><div>2.1.표준장치명/모델명</div><div>2.1.1.(표준장치명/모델명)</div><div>2.2.ICT장비 등록번호</div><div>2.2.1.(일련번호)</div><div>2.3.주요 기능</div><div>2.3.1.(기능 설명)</div><div>2.4.구성</div><div>2.4.1. (구성품 나열)</div><div><br></div><div>3.ICT 정보</div><div>3.1.수집 데이터</div><div>3.1.1. (수집 데이터 나열)</div><div><br></div><div>4.도입 시 고려사항</div><div>4.1.비용</div><div>4.1.1. (비용)</div><div>4.2.최소 기준</div><div>4.2.1. (최소 기준)</div>"
+          "text": " "
         }
       ]
     },
