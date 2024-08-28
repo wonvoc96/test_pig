@@ -405,7 +405,7 @@ var APP_DATA = {
           "yaw": 1.3105871351262088,
           "pitch": -0.08496489307123056,
           "title": "모돈 자동급이기",
-          "text": "<div>(표준 장치명)</div><div>(이미지)</div><div><br></div><div>-</div><div><br></div>(회사 A) (회사 B) (회사 C)<div><br></div><div>1.업체 정보</div><div>1.1.제조사/유통사</div><div>1.1.1.회사 A/회사 A</div><div><br></div><div>2.설비 정보</div><div>2.1.표준장치명/모델명</div><div>2.1.1.(표준장치명/모델명)</div><div>2.2.ICT장비 등록번호</div><div>2.2.1.(일련번호)</div><div>2.3.주요 기능</div><div>2.3.1.(기능 설명)</div><div>2.4.구성</div><div>2.4.1. (구성품 나열)</div><div><br></div><div>3.ICT 정보</div><div>3.1.수집 데이터</div><div>3.1.1. (수집 데이터 나열)</div><div><br></div><div>4.도입 시 고려사항</div><div>4.1.비용</div><div>4.1.1. (비용)</div><div>4.2.최소 기준</div><div>4.2.1. (최소 기준)</div>"
+          "text": " "
         },
         {
           "yaw": 1.7159248030488632,
